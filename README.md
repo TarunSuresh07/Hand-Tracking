@@ -1,2 +1,2 @@
 # Facial-Recognition
-This is Facial Recognition by Spider Developer
+This is Facial Recognition project using python by Spider Developer
