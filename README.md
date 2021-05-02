@@ -26,15 +26,15 @@ The Libraries are used in this project
 * Time is used for fps part 
 
 # Details 
-There are many points are there in your hands as shown in below images
+There are many points or landmarks are there in your hands as shown in below images
 ![Hands](https://user-images.githubusercontent.com/67192301/116820217-76ff9100-ab91-11eb-8fb3-a35fec643f16.png)
 
-These points can used for using particular points for different things such as Controlling Volume using thumb tip and index finger tip project (Not Included!)
+These points can used for using particular points or landmarks for different things such as Controlling Volume using thumb tip and index finger tip project (Not Included!)
 
 ![Volume](https://user-images.githubusercontent.com/67192301/116820918-12463580-ab95-11eb-8f26-a5f1699d7953.png)
 
 So You can also use these points for different project 
-So I also included a picture of the points in finger (Found here and also at files!)
+So I also included a picture of the points or landmarks in finger (Found here and also at files!)
 
 ![hand_landmarks](https://user-images.githubusercontent.com/67192301/116820629-a7e0c580-ab93-11eb-8793-7f21b24fef4b.png)
 
