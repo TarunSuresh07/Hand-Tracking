@@ -6,13 +6,13 @@ This repository for Hand Tracking using python by Spider Developer and that me!!
 Please scroll down for more infomation!!!!!
 
 # NOTE
-1) THIS PROJECT IS A YOUTUBE TUTORIAL FROM A CHANNEL CALLED Murtaza's Workshop - Robotics and AI 
+* THIS PROJECT IS A YOUTUBE TUTORIAL FROM A CHANNEL CALLED Murtaza's Workshop - Robotics and AI 
 
 [Tutorial Link](https://www.youtube.com/watch?v=NZde8Xt78Iw)
 
 [Channel Link](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
 
-2) THE QUALITY AND SMOOTHESS AND SPEED OF PROGRAM DEPENDS ON YOUR PC AND WEBCAM!!!!!!!!! SO DON'T BLAME ME FOR SLOWER PERFORMTION 
+* THE QUALITY AND SMOOTHESS AND SPEED OF PROGRAM DEPENDS ON YOUR PC AND WEBCAM!!!!!!!!! SO DON'T BLAME ME FOR SLOWER PERFORMTION 
 
 # Libraries 
 The Libraries are used in this project 
