@@ -1,7 +1,8 @@
 # About
 
-Hello Developer
-This repository for Hand Tracking using python by Spider Developer and that me!!!!!!!
+Hello Developers/Coders
+Hi 
+This a repository for Hand Tracking using python by Spider Developer and that me!!!!!!!
 
 Please scroll down for more infomation!!!!!
 
@@ -50,7 +51,7 @@ Some photos for example
 
 ![jhdh4](https://user-images.githubusercontent.com/67192301/116820243-939bc900-ab91-11eb-9f40-6694d3cfd157.png)
 
-For code explaination and more infomation, Please check the YouTube vdieo given above at NOTE
+For code explaination or more infomation, Please check the YouTube vdieo given above at NOTE
 
 Thanks a lot for downloading the project and Happy Coding and Development 
 - Spider Developer
