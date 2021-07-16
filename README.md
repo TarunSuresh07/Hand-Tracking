@@ -51,7 +51,7 @@ Some photos for example
 
 ![jhdh4](https://user-images.githubusercontent.com/67192301/116820243-939bc900-ab91-11eb-9f40-6694d3cfd157.png)
 
-For code explaination or more infomation, Please check the YouTube vdieo given above at NOTE
+For code explaination or more infomation, Please check the YouTube video given above at NOTE
 
 Thanks a lot for downloading the project and Happy Coding and Development 
 - Spider Developer
