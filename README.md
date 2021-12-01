@@ -2,7 +2,7 @@
 
 Hello Developers/Coders
 Hi 
-This a repository for Hand Tracking using python by Spider Developer and that me!!!!!!!
+This a repository for Hand Tracking using python by Tarun Suresh and that me!!!!!!!
 
 Please scroll down for more infomation!!!!!
 
